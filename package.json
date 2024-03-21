@@ -1,0 +1,37 @@
+{
+  "name": "iban-validator",
+  "version": "1.0.2",
+  "description": "A simple ansd easy to use IBAN valiadotors for all the world coutries except israel",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baibars313/iban-validator.git"
+  },
+  "keywords": [
+    "IBAN validation",
+    "IBAN checker",
+    "validate IBAN",
+    "IBAN format",
+    "IBAN code",
+    "IBAN number",
+    "JavaScript",
+    "Node.js",
+    "npm package",
+    "open source",
+    "MIT license"
+]
+,
+  "author": "baibars313",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.23.9"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.23.9"
+  }
+}
