@@ -1,6 +1,6 @@
 {
-  "name": "iban-validator",
-  "version": "1.0.2",
+  "name": "iban-validator-2.0",
+  "version": "1.0.0",
   "description": "A simple ansd easy to use IBAN valiadotors for all the world coutries except israel",
   "main": "index.js",
   "scripts": {

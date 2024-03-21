@@ -1,6 +1,6 @@
 
 
-export const Validate=(input)=>{
+export default  Validate=(input)=>{
   const CODE_LENGTHS = {
       AD: 24, AE: 23, AF: 24, AG: 28, AL: 28, AM: 21, AO: 25, AR: 22, AT: 20, AU: 21,
       AZ: 28, BA: 20, BB: 28, BD: 27, BE: 16, BF: 28, BG: 22, BH: 22, BI: 16, BJ: 28,
